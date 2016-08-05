@@ -1,0 +1,50 @@
+_repo: A-Strange-Manuscript-Found-in-a-Copper-Cylinder_6709
+_version: 0.0.1
+creator:
+  author:
+    agent_name: De Mille, James
+    aliases:
+    - DeMille, James
+    - Mille, James de
+    birthdate: 1833
+    deathdate: 1880
+    gutenberg_agent_id: '1482'
+    url: http://www.gutenberg.org/2009/agents/1482
+    wikipedia: http://en.wikipedia.org/wiki/James_De_Mille
+description: "A Strange Manuscript Found in a Copper Cylinder is the most popular\
+  \ book by James De Mille. It was serialized posthumously and anonymously in Harper's\
+  \ Weekly, and published in book form by Harper and Brothers of New York City during\
+  \ 1888. It was serialized subsequently in the United Kingdom and Australia, and\
+  \ published in book form in the United Kingdom and Canada. Later editions were published\
+  \ from the plates of the Harper and Brothers first edition, during the late 19th\
+  \ and early 20th centuries.\nThe satiric and fantastic romance is set in an imaginary\
+  \ semi-tropical land in Antarctica inhabited by prehistoric monsters and a cult\
+  \ of death-worshipers called the Kosekin. Begun many years before it was published,\
+  \ it is reminiscent of Edgar Allan Poe's The Narrative of Arthur Gordon Pym of Nantucket\
+  \ and anticipates the exotic locale and fantasy-adventure elements of works of the\
+  \ \"Lost World genre\" such as Arthur Conan Doyle's The Lost World, Edgar Rice Burroughs'\
+  \ The Land That Time Forgot, as well as innumerable prehistoric world movies based\
+  \ loosely on these and other works. The title and locale were inspired by Edgar\
+  \ Allan Poe's Ms. Found in a Bottle.\nIt was unfortunate for De Mille's reputation\
+  \ as a writer that this work was published after She and King Solomon's Mines. Although\
+  \ H. Rider Haggard's works were well known by then, the actual composition of De\
+  \ Mille's romance pre-dated the publication of the popular romances and his ideas\
+  \ were not in the least derivative from Haggard's better known works.\n From Wikipedia\
+  \ (CC BY-SA)."
+gutenberg_issued: '2004-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6709'
+  wikidata: Q4659834
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- GITenberg
+title: A Strange Manuscript Found in a Copper Cylinder
+url: http://www.gutenberg.org/ebooks/6709
+wikipedia:
+- https://en.wikipedia.org/wiki/A_Strange_Manuscript_Found_in_a_Copper_Cylinder
